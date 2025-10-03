@@ -163,7 +163,7 @@ For questions, concerns, or reports regarding these Terms or the Bot, please con
 
 - Email: hrishitkhare4@gmail.com
 
-- Support Server: 1414143531697836104 (server ID)
+- Support Server: https://discord.gg/wr547KQFEX
 
 16. ACKNOWLEDGMENT
 By using WhoToBan?, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
