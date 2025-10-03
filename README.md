@@ -87,7 +87,7 @@ WhoToBan? collects minimal data necessary for functionality:
 
 - **Discord**: hrishitkhare
 - **Email**: hrishitkhare4@gmail.com
-
+- **Support server**: https://discord.gg/wr547KQFEX
 # 📄 License
 
 ALL RIGHTS ARE RESERVED FOR THE BOT AND THE SOURCE CODE OF THE BOT
